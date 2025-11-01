@@ -1,0 +1,6 @@
+Pillow
+streamlit
+fastapi[all]
+google-genai
+python-dotenv
+python-multipart
